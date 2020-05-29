@@ -1,5 +1,12 @@
 # Folge 12
 ## Folgen Name
-12 - 5Minutes - Hier steht der Titel
+
+E12 - 5Minutes - BPMN & WorkflowEngine - Was ist das?
+
 ## Folgen Beschreibung
-Folgenbeschreibung mit Linksgit
+
+In der 12. Folge “5Minutes” haben wir Rene Föhring zu Besuch. Er erläutert uns heute was BPMNs sind, woraus sie bestehen und wie wir bei 5Minds BPMNs nutzen, um unseren Kunden einen nachhaltigen Mehrwert zu bringen.
+
+## Link zur Episode
+
+https://anchor.fm/5minds5minutes/episodes/E12---5Minutes---BPMN--WorkflowEngine---Was-ist-das-edd33n
