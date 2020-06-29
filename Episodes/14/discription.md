@@ -7,3 +7,7 @@ Julia war zwar gar nicht auf der Liste unserer Top10-Programmiersprachen 2020 (E
 
 Foliensatz: https://github.com/5minds/5minutes/blob/master/Episodes/14/Additional%20files/Julia.pdf
 Jupyter-Notebook: https://github.com/5minds/5minutes/blob/master/Episodes/14/Additional%20files/Julia.ipynb
+
+## Link zur Episode
+
+https://anchor.fm/5minds5minutes/episodes/E14---5Minutes---Julia-eeni2e
