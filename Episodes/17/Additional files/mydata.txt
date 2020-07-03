@@ -1,0 +1,5 @@
+Alter Geschlecht  IQ
+16  m 98
+54  m 129
+32  w 122
+44  m 110
