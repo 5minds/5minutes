@@ -13,4 +13,4 @@ Möchtest du dabei sein und uns dabei unterstützen, dann schau vorbei auf https
 
 ## Link zur Episode
 
-[Folgt nach veröffentlichung]
+https://anchor.fm/5minds5minutes/episodes/E16---5Minutes---Digital-Stage-eftpob
