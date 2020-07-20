@@ -11,4 +11,4 @@ Ein R-Skript zum ausprobieren: https://github.com/5minds/5minutes/tree/master/Ep
 
 ## Link zur Episode
 
-[Folgt nach veröffentlichung]
+https://anchor.fm/5minds5minutes/episodes/E17---5Minutes---Statistische-Programmiersprache-R-eg8g4p
