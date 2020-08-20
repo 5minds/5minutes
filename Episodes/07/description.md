@@ -1,4 +1,5 @@
 # Folge 07
+
 ## Folgen Name
 
 E07 - 5Minutes - Nearshoring
@@ -15,4 +16,4 @@ Sponsorships: off for this episode
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E07---5Minutes---Nearshoring-e98hc4
+<https://anchor.fm/5minds5minutes/episodes/E07---5Minutes---Nearshoring-e98hc4>

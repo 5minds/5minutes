@@ -1,4 +1,5 @@
 # Folge 01
+
 ## Folgen Name
 
 E01 - 5Minutes - 5Minds & MeetUps
@@ -16,11 +17,11 @@ Zu Gast in unserer ersten Folge ist Marc Biegota, unser 5Minds Lieblingsarchitek
 Hier die in der Folge erwähnten Web-Seiten:
 
 Allgemeines zu CodingDojos:
-http://codingdojo.org/
+<http://codingdojo.org/>
 
 Sammlung der Coding-Dojo-Aufgaben von 5Minds:
-https://github.com/5minds/5Minds.CodingDojo  
+<https://github.com/5minds/5Minds.CodingDojo>  
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E01---5Minutes---5Minds--MeetUps-e90vvm
+<https://anchor.fm/5minds5minutes/episodes/E01---5Minutes---5Minds--MeetUps-e90vvm>

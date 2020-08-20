@@ -1,4 +1,5 @@
 # Folge 02
+
 ## Folgen Name
 
 E02 - 5Minutes - Snips: Ein Sprachassistent ganz ohne Cloud
@@ -15,10 +16,10 @@ Snips ist ein “Private by Design” Sprachassistent, der bereits auf einem Ras
 Hier die erwähnten Links:
 
 Snips Projekt:
-https://snips.ai/
+<https://snips.ai/>
 
-https://www.home-assistant.io/integrations/snips/
+<https://www.home-assistant.io/integrations/snips/>
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E02---5Minutes---Snips-Ein-Sprachassistent-ganz-ohne-Cloud-e9288l
+<https://anchor.fm/5minds5minutes/episodes/E02---5Minutes---Snips-Ein-Sprachassistent-ganz-ohne-Cloud-e9288l>

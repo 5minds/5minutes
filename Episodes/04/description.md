@@ -1,4 +1,5 @@
 # Folge 04
+
 ## Folgen Name
 
 E04 - 5Minutes - Sprintsquads
@@ -14,4 +15,4 @@ Um diese Arbeitsweise abzuschaffen und somit auch vor allem Fehler und unnötige
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E04---5Minutes---Sprintsquads-e98hd4
+<https://anchor.fm/5minds5minutes/episodes/E04---5Minutes---Sprintsquads-e98hd4>

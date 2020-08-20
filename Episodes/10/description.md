@@ -1,4 +1,5 @@
 # Folge 10
+
 ## Folgen Name
 
 E10 - 5Minutes - 5Weekly
@@ -11,4 +12,4 @@ Sie will euch heute über die Wurzeln unseres 5Weekly Formats informieren und ei
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E10---5Minutes---5Weekly-ec6ffi
+<https://anchor.fm/5minds5minutes/episodes/E10---5Minutes---5Weekly-ec6ffi>
