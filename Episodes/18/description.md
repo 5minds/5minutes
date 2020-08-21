@@ -1,4 +1,5 @@
 # Folge 18
+
 ## Das JuPyteR Projekt
 
 E18 - 5Minutes - Das JuPyteR Projekt
@@ -11,4 +12,4 @@ In Folge 14 (E14 - 5Minutes - Julia) haben wir schon das Thema Jupyter Notebooks
 
 ## Link zur Episode
 
-[Folgt nach veröffentlichung]
+<https://anchor.fm/5minds5minutes/episodes/E18---5Minutes---Das-JuPyteR-Projekt-egs566>

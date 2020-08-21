@@ -1,4 +1,5 @@
 # Folge 08
+
 ## Folgen Name
 
 E08 - 5Minutes - Zerlegung von Userstories
@@ -11,4 +12,4 @@ Userstories werden schnell sehr groß, wenn man versucht Anforderungen mit einer
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E08---5Minutes---Zerlegung-von-Userstories-eai7ih
+<https://anchor.fm/5minds5minutes/episodes/E08---5Minutes---Zerlegung-von-Userstories-eai7ih>

@@ -1,4 +1,5 @@
 # Folge 03
+
 ## Folgen Name
 
 E03 - 5Minutes - Stoizismus: Eine Lebenseinstellung
@@ -15,4 +16,4 @@ Links:
 
 ## Link zur Episode
 
-https://anchor.fm/5minds5minutes/episodes/E03---5Minutes---Stoizismus-Eine-Lebenseinstellung-e92aki
+<https://anchor.fm/5minds5minutes/episodes/E03---5Minutes---Stoizismus-Eine-Lebenseinstellung-e92aki>
