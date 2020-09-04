@@ -20,4 +20,4 @@ Wer als erster eine E-Mail an gewinnspiel@5minds.de sendet, hat die Chance auf e
 
 ## Link zur Episode
 
-[Folgt nach veröffentlichung]
+https://anchor.fm/5minds5minutes/episodes/E20---5Minutes---Dart-eidpf5
