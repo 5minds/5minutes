@@ -15,4 +15,4 @@ TOP 10 Programmiersprachen 2020: https://blog.5minds.de/posts/2020-01-13-top-10-
 
 ## Link zur Episode
 
-Folgt...
+https://anchor.fm/5minds5minutes/episodes/E23---5Minutes---Kotlin-ekesoo
