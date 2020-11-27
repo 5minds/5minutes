@@ -2,13 +2,13 @@
 
 ## AWS - WebApp Cloud Computing
 
-E24 - 5Minutes - WebApp Cloud Computing
+E25 - 5Minutes - WebApp Cloud Computing
 
 ## Folgen Beschreibung
 
 In der 25. Folge des 5Minutes Podcasts kehren wir mal wieder in die AWS Cloud zurück. 
 
-Nachdem uns schon die DynamoDb in einer früheren Folge vorgestellt wurde, schauen wir uns uns diesmal an, was alles benötigt wird um 
+Nachdem uns von Martin Pöpel schon die DynamoDb in einer früheren Folge vorgestellt wurde, schauen wir uns uns diesmal an, was alles benötigt wird um 
 eine Web App bei AWS zu erstellen und zu hosten.
 
 Die Amazon Web Services (AWS) bieten verschiedene Dienste an um Applikationen zu erstellen oder zu hosten. Um eine Web App, die z.B. in
